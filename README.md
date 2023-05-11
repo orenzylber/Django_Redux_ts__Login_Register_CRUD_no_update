@@ -9,7 +9,7 @@ myenv\Scripts\activate                 (to activate, once per project)
 pip install -r .\requirements.txt      (to install all the required packages)
 py manage.py runserver
 
-## To enter the Front (React) I write in the terminal: 
+## To enter the Front (React) I write in the terminal:
       a. cd my-app
-	    b. npm install or npm i         (installs all dependencies in React including VE)
+      b. npm install or npm i         (installs all dependencies in React including VE)
       c. npm start
