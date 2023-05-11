@@ -4,10 +4,10 @@
 - in the front we have Login, Register and a CRUD without 'PUT'.
 
 ## To enter the Back (Django), and install the VE and the requirements.txt file:
--> python -m virtualenv myenv             (once per project)
--> myenv\Scripts\activate                 (to activate, once per project)
--> pip install -r .\requirements.txt      (to install all the required packages)
--> py manage.py runserver
+- python -m virtualenv myenv             (once per project)
+- myenv\Scripts\activate                 (to activate, once per project)
+- pip install -r .\requirements.txt      (to install all the required packages)
+- py manage.py runserver
 
 ## To enter the Front (React) I write in the terminal:
       a. cd my-app
